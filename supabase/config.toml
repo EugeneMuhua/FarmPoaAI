@@ -1,0 +1,7 @@
+project_id = "xuvyssabtpsrhekkznqd"
+
+[functions.agricultural-ai-chat]
+verify_jwt = false
+
+[functions.enhanced-crop-analysis]
+verify_jwt = false
